@@ -1,0 +1,31 @@
+{
+    "main": {
+        "title": "About PickleHub",
+        "data": "Access the world wide web, PickleHub is an anti-censorship web service."
+    },
+    "authors": [
+        {
+            "name": "<a href=\"https://github.com/caracal-js\">Caracal.js</a>",
+            "data": "Creator of <a href=\"https://github.com/titaniumnetwork-dev/Ultraviolet\">Ultr&#173;avi&#173;olet</a></p>"
+        },
+        {
+            "name": "<a href=\"https://github.com/e9x\">e9x</a>",
+            "data": "Creator of <a href=\"https://github.com/tomphttp/\">TompHTTP</a>"
+        },
+        {
+            "name": "<a href=\"https://github.com/pickle69420\">pickle69420</a>",
+            "data": "Creator of this site"
+        }
+    ],
+    "socials": [
+        {
+            "name": "None",
+            "data": "No socials for now, come back later."
+        }
+    ],
+    "contact": [
+        {
+            "name": "<a href=\"mailto:incognito@titaniumnetwork.org\">incognito@titaniumnetwork.org</a>"
+        }
+    ]
+}

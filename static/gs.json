@@ -1,0 +1,231 @@
+[
+    {
+      "img": "./img/gs/krk.png",
+      "location": "./load.html#a3J1bmtlci5pbw%3D%3D",
+      "title": "Krunker.io",
+      "author": "Yendis Entertainment",
+      "description": "Krunker is a remarkable first-person shooter game where you fall right into a dark world, tasked with fighting against other players from around the world.",
+      "category": "multi",
+      "featured": true
+    },
+    {
+      "img": "./img/gs/shellshockers.jpg",
+      "location": "./load.html#aHR0cHM6Ly9zaGVsbHNob2NrLmlv",
+      "category": "multi",
+      "title": "Shell Shockers"
+    },
+    {
+      "img": "./img/gs/skiribbl.png",
+      "location": "./load.html#aHR0cHM6Ly9za3JpYmJsLmlv",
+       "category": "multi",
+      "title": "Skribbl.io"
+    },
+    {
+      "img": "./img/gs/kaetram.png",
+      "location": "/load.html#a2FldHJhbS5jb20=",
+      "title": "Kaetram",
+      "category": "multi"
+    },
+    {
+      "img": "./img/gs/among.jpg",
+      "location": "./load.html#aHR0cHM6Ly9ub3cuZ2cvcGxheS9pbm5lcnNsb3RoLWxsYy80MDQ3L2Ftb25nLXVz",
+      "title": "Among Us",
+      "category": "multi"
+    },
+    {
+      "img": "./img/gs/1-on-1-soccer.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/swfs/index.html#1on1soccer",
+      "title": "1 on 1 Soccer",
+      "description": "\r\n\r\nDon't you enjoy the straight-forward athletic duels on the field? In 1 on 1 Soccer, you get to face off against another player (Computer or real) in a 2 player football match. Run up against the ball to kick it across the field. Jump up in the air to move the ball with your head, or to simply stand on your opponent's. A match only lasts five minutes. Before you know it, you're itching for a rematch.\r\n\r\nThe easy gameplay makes this soccer match fun and addictive. Grab your best friend and play a duell to find out who can handle the ball better. Aim into your opponent's goal and try to keep it as far away as possible from your own. What are you waiting for? Have some sporty fun with those funny looking figures in 1 on 1 Soccer, online and for free on Silvergames.com!\r\n\r\nControls: WASD \/ Arrows = Move\/Jump\r\n"
+    },
+    {
+      "img": "./img/gs/1v1-lol.jpg",
+      "location": "./load.html#MXYxLmxvbA%3D%3D",
+      "title": "1v1.LOL",
+      "category": "multi",
+      "featured": true,
+      "description": "Discover 1v1, the online building simulator & third person shooting game. Battle royale, build fight, box fight, zone wars and more game modes to enjoy!"
+    },
+    {
+      "img": "./img/gs/2048.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/2048/index.html",
+      "title": "2048",
+      "description": "Join the tiles, get to 2048!"
+    },
+    {
+      "img": "./img/gs/a-fancy-pants-adventure.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/swfs/index.html#a-fancy-pants-adventure-world1",
+      "title": "A Fancy Pants Adventure",
+      "description": "In this game you take control of Fancy Pants - a cool stickman character who wears awesome and colorful pants! You must help our fancy hero work his way through a myriad of cool levels and avoid various obstacles, monsters and creatures on his way! "
+    },
+    {
+      "img": "./img/gs/alien-hominid.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/swfs/index.html#alienhominid",
+      "title": "Alien Hominid",
+      "description": "Your UFO has crash landed, and the FBI is out to get you! Time to take them out!",
+      "author": "Tom Fulp"
+    },
+    {
+      "img": "./img/gs/astray.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/astray/index.html",
+      "title": "Astray"
+    },
+    {
+      "img": "./img/gs/chroma.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/chroma/index.html",
+      "title": "The Chroma Incident",
+      "description": "The Achromats have taken the worlds color offline! Raid their colorless lair and vanquish them all, restoring the world to it's technicolor glory.",
+      "author": "Ryan Malm"
+    },
+    {
+      "img": "./img/gs/chrome-dinosaur.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/dinosaur/index.html",
+      "title": "Chrome Dinosaur",
+      "author": "Google",
+      "category": "web",
+      "description": "The Dinosaur Game is a browser game developed by Google and built into the Google Chrome web browser. The player guides a pixelated Tyrannosaurus rex across a side-scrolling landscape, avoiding obstacles to achieve a higher score."
+    },
+    {
+      "img": "./img/gs/cookie-clicker.jpg",
+      "location": "https://gitcdn.link/cdn/cookieclickerunblocked/cookieclickerunblocked.github.io/main/games/cookie-clicker/index.html",
+      "title": "Cookie Clicker",
+      "category": "web",
+      "description": "Cookie Clicker is an idle clicker game. Bake millions of delicious cookies by clicking on a giant cookie.",
+      "author": "Orteil",
+      "featured": true
+    },
+    {
+      "img": "./img/gs/cubefield.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/cubefield/index.html",
+      "title": "Cubefield",
+      "description": "Cubefield is a fast-paced endless running game that tests your ability to dodge obstacles at high speed.",
+      "author": "Nils Asejevs"
+    },
+    {
+      "img": "./img/gs/doodle-jump.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/doodle-jump/index.html",
+      "title": "Doodle Jump",
+      "category": "web",
+      "author": "Lima Sky"
+    },
+    {
+      "img": "./img/gs/fireboy-and-watergirl-forest-temple.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/fireboy-and-watergirl-forest-temple/index.html",
+      "title": "Fireboy & Watergirl Into the Forest Temple"
+    },
+    {
+      "img": "./img/gs/flappybird.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/flappybird/index.html",
+      "category": "web",
+      "title": "Flappy Bird"
+    },
+        {
+      "img": "./img/gs/slope.jpg",
+      "location": "https://gitcdn.link/cdn/scheng123321/tmm-html5-cdn1/master/slope/index.html",
+      "category": "web",
+      "title": "Slope"
+    },
+    {
+      "img": "./img/gs/friendlyfire.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/friendlyfire/index.html",
+      "title": "Friendly Fire"
+    },
+    {
+      "img": "./img/gs/geometry.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/geometry/index.html",
+      "title": "Geometry Dash"
+    },
+    {
+      "img": "./img/gs/gopherkart.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/gopher-kart/index.html",
+      "title": "Gopher Kart"
+    },
+    {
+      "img": "./img/gs/hexgl.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/hexgl/index.html",
+      "title": "HexGL"
+    },
+    {
+      "img": "./img/gs/littlebigsnake.jpg",
+      "location": "./load.html#bGl0dGxlYmlnc25ha2UuY29t",
+      "category": "multi",
+      "title": "LittleBigSnake"
+    },
+    {
+      "img": "./img/gs/minecraft.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/mc-classic/index.html",
+      "title": "Minecraft Classic"
+    },
+    {
+      "img": "./img/gs/pacman.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/pacman/index.html",
+      "title": "Pac Man"
+    },
+    {
+      "img": "./img/gs/paper-io.jpg",
+      "location": "./load.html#cGFwZXItaW8uY29t",
+      "title": "Paper.io",
+      "category": "multi"
+    },
+    {
+      "img": "./img/gs/portal2d.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/swfs/index.html#portal2d",
+      "title": "Portal 2D"
+    },
+    {
+      "img": "./img/gs/radiusraid.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/radius-raid/index.html",
+      "title": "Radius Raid"
+    },
+    {
+      "img": "./img/gs/retro-bowl.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/retro-bowl/index.html",
+      "category": "web",
+      "title": "Retro Bowl"
+    },
+    {
+      "img": "./img/gs/sm64.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/sm64/index.html",
+      "title": "Super Mario 64",
+      "category": "n64"
+    },
+    {
+      "img": "./img/gs/spaceinvaders.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/spaceinvaders/index.html",
+      "title": "Space Invaders"
+    },
+    {
+      "img": "./img/gs/vex3.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/vex3/index.html",
+      "title": "Vex 3",
+      "category": "web"
+    },
+    {
+      "img": "./img/gs/vex4.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/vex4/index.html",
+      "title": "Vex 4",
+      "category": "web"
+    },
+    {
+      "img": "./img/gs/vex5.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/vex5/index.html",
+      "title": "Vex 5",
+      "category": "web"
+    },
+    {
+      "img": "./img/gs/warfare1917.png",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/swfs/index.html#warfare1917",
+      "title": "Warfare 1917"
+    },
+    {
+      "img": "./img/gs/warfare1944.jpg",
+      "location": "https://gitcdn.link/cdn/caracal-js/gfiles/main/swfs/index.html#warfare1944",
+      "title": "Warfare 1944"
+    },
+    {
+      "img": "./img/gs/zombsroyale.jpg",
+      "location": "./load.html#em9tYnNyb3lhbGUuaW8%3D",
+      "title": "ZombsRoyale.io",
+      "category": "multi"
+    }
+  ]
